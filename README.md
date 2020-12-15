@@ -7,12 +7,12 @@
 This visualization tool is built mainly using Dash Plotly on Python. For data cleaning purposes, Jupyter Notebook is used. Python 3.7 is used.
 
 ## Required Python Packages:
-* pandas
-* json
-* area
-* dash
-* plotly.express
-* numpy
+* `pandas`
+* `json`
+* `area`
+* `dash`
+* `plotly.express`
+* `numpy`
 
 ## Installing Packages
 In your terminal, install dash libraries by entering `pip install dash`. All components of dash will then be installed.
