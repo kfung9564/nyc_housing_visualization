@@ -1,0 +1,67 @@
+Location,Household Type,TimeFrame,DataFormat,Data,Fips
+New York City,All Households,2019,Dollars,69407,3651000
+Manhattan,All Households,2019,Dollars,93651,36061
+Battery Park/Tribeca,All Households,2019,Dollars,162092,101
+Greenwich Village,All Households,2019,Dollars,162092,102
+Lower East Side,All Households,2019,Dollars,41302,103
+Chelsea/Clinton,All Households,2019,Dollars,120248,104
+Midtown Business District,All Households,2019,Dollars,120248,105
+Murray Hill/Stuyvesant,All Households,2019,Dollars,154501,106
+Upper West Side,All Households,2019,Dollars,136735,107
+Upper East Side,All Households,2019,Dollars,134264,108
+Manhattanville,All Households,2019,Dollars,68370,109
+Central Harlem,All Households,2019,Dollars,54932,110
+East Harlem,All Households,2019,Dollars,32408,111
+Washington Heights,All Households,2019,Dollars,53507,112
+Bronx,All Households,2019,Dollars,41432,36005
+Mott Haven,All Households,2019,Dollars,25074,201
+Hunts Point,All Households,2019,Dollars,25074,202
+Morrisania,All Households,2019,Dollars,23605,203
+Concourse/Highbridge,All Households,2019,Dollars,32559,204
+University Heights,All Households,2019,Dollars,32025,205
+East Tremont,All Households,2019,Dollars,23605,206
+Bedford Park,All Households,2019,Dollars,41336,207
+Riverdale,All Households,2019,Dollars,61248,208
+Unionport/Soundview,All Households,2019,Dollars,43975,209
+Throgs Neck,All Households,2019,Dollars,61029,210
+Pelham Parkway,All Households,2019,Dollars,58204,211
+Williamsbridge,All Households,2019,Dollars,60228,212
+Brooklyn,All Households,2019,Dollars,66937,36047
+Williamsburg/Greenpoint,All Households,2019,Dollars,98284,301
+Fort Greene/Brooklyn Hts,All Households,2019,Dollars,111546,302
+Bedford Stuyvesant,All Households,2019,Dollars,61186,303
+Bushwick,All Households,2019,Dollars,66275,304
+East New York,All Households,2019,Dollars,45991,305
+Park Slope,All Households,2019,Dollars,155250,306
+Sunset Park,All Households,2019,Dollars,67871,307
+Crown Heights North,All Households,2019,Dollars,74429,308
+Crown Heights South,All Households,2019,Dollars,66701,309
+Bay Ridge,All Households,2019,Dollars,76569,310
+Bensonhurst,All Households,2019,Dollars,57139,311
+Borough Park,All Households,2019,Dollars,55071,312
+Coney Island,All Households,2019,Dollars,40711,313
+Flatbush/Midwood,All Households,2019,Dollars,65599,314
+Sheepshead Bay,All Households,2019,Dollars,75127,315
+Brownsville,All Households,2019,Dollars,31345,316
+East Flatbush,All Households,2019,Dollars,60895,317
+Canarsie,All Households,2019,Dollars,80471,318
+Queens,All Households,2019,Dollars,73696,36081
+Astoria,All Households,2019,Dollars,79180,401
+Sunnyside/Woodside,All Households,2019,Dollars,80913,402
+Jackson Heights,All Households,2019,Dollars,67201,403
+Elmhurst/Corona,All Households,2019,Dollars,67143,404
+Ridgewood/Glendale,All Households,2019,Dollars,72781,405
+Rego Park/Forest Hills,All Households,2019,Dollars,89160,406
+Flushing,All Households,2019,Dollars,54933,407
+Fresh Meadows/Briarwood,All Households,2019,Dollars,72166,408
+Woodhaven,All Households,2019,Dollars,76978,409
+Howard Beach,All Households,2019,Dollars,84258,410
+Bayside,All Households,2019,Dollars,92682,411
+Jamaica/St. Albans,All Households,2019,Dollars,65744,412
+Queens Village,All Households,2019,Dollars,94789,413
+The Rockaways,All Households,2019,Dollars,55034,414
+Staten Island,All Households,2019,Dollars,89821,36085
+St. George,All Households,2019,Dollars,75180,501
+South Beach,All Households,2019,Dollars,82089,502
+Tottenville,All Households,2019,Dollars,108025,503
+None,All Households,2019,Dollars,0,0

@@ -1,0 +1,35 @@
+.whole{
+    height: 100vh;
+}
+
+.map-div, .scatter-div{
+    width: 48%;
+    padding: 3px 5px 3px 5px;
+}
+
+#scatter-graph{
+    height: 40%;
+}
+
+.dot-div{
+    height: 58%;
+}
+
+#graph-with-slider{
+    height: 75%;
+}
+
+.dot-div{
+    position: relative;
+}
+
+.dot-x-label, .dot-y-label, .dot-size-label{
+    width: 33%;
+    display: inline-block;
+}
+
+#dot-dropdown-x, #dot-dropdown-y, #dot-dropdown-size{
+    padding-top: 20px;
+    width: 87%;
+    display: inline-block;
+}
