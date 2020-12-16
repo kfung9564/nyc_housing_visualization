@@ -2,9 +2,12 @@
 
 ![Image of Overview](https://github.com/kfung9564/nyc_housing_visualization/blob/main/images/overview.png)
 
+Images from report and presentation can be found in `images`
+Tables can be found on Jupyter Notebook in `data_cleaning`
 
 # How to run the code
 This visualization tool is built mainly using Dash Plotly on Python. For data cleaning purposes, Jupyter Notebook is used. Python 3.7 is used.
+
 
 ## Required Python Packages:
 * `pandas`
